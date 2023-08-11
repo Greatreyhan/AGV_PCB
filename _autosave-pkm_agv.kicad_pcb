@@ -2142,6 +2142,9 @@
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d6f8fb87-6fd3-4aa9-a44f-c9ef6e1f57be))
   (gr_circle (center 41.275 85.852) (end 42.545 87.122)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f3daffee-d5bb-45c3-9999-eaa9c56698b6))
+  (gr_text "ASTAR TECH" (at 65.405 120.015) (layer "F.SilkS") (tstamp 72b785b1-d4f7-4982-b5cf-6a4037a990bc)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
+  )
 
   (segment (start 90.19 93.98) (end 128.905 93.98) (width 0.3) (layer "B.Cu") (net 1) (tstamp 1d30be75-595e-4646-b801-a6d8deaf2648))
   (segment (start 128.905 93.98) (end 131.850834 96.925834) (width 0.3) (layer "B.Cu") (net 1) (tstamp 4409691a-ee56-4d59-afd6-b8fdc4e0e44f))

@@ -1,4 +1,4 @@
-21738746806414690
+21742080779845365
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -321,6 +321,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+BlackPill_STLINK
+BlackPill_STLINK
+STM32F4-based development board with ST-LINK header
+stm32 arm
+0
+44
+44
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -83136,8 +83143,8 @@ STM32F411CEU_BlackPill
 
 
 0
-0
-0
+40
+40
 STM32_Lib
 STM32F411_Black_Pill_V3
 
@@ -90320,3 +90327,10 @@ varistor
 0
 2
 2
+XT90PW-M
+AMASS_XT90PW-M
+
+
+0
+4
+4
